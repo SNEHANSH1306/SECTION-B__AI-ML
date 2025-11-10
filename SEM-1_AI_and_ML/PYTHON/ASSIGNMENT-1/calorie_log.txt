@@ -1,0 +1,11 @@
+========== Calorie Tracker Session ==========
+Date & Time: 2025-11-09 18:21:01.043930
+
+BreakFast      	342.0
+Lunch          	376.0
+Snacks         	134.0
+Dinner         	453.0
+--------------------------------------------
+Total:		1305.0
+Average:	326.25
+Status:   HURRAYY!!! You are within your daily calorie limit.
